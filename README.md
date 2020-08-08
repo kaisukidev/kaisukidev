@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel - aka [Kaisuki][website] 👋
+### Hi there, I'm Gabriel - aka [Kaisuki][linkedin] 👋
 
 ## I'm a Husband, Father, Developer and Teacher!
 - 🔭 I’m currently working on [Udemy Courses][website]!
