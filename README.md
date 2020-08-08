@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kaisukidev | Udemy" width="22px" src="https://img2.gratispng.com/20180708/acg/kisspng-udemy-coupon-logo-discounts-and-allowances-sales-formula-one-logo-5b419af203e528.396413641531026162016.jpg" />][udemy]
+[<img align="left" alt="Kaisukidev | Udemy" width="22px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/udemy_logo_icon_144775.png" />][udemy]
 [<img align="left" alt="Kaisukidev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kaisukidev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaisukidev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
