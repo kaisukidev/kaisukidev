@@ -42,6 +42,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Entendendo o Document.readyState](https://medium.com/@kaisukidev/entendendo-o-document-readystate-c47207382cae?source=rss-a5659fe367f2------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.udemy.com/user/gabriel-albuquerque-5/
