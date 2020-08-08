@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kaisukidev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Kaisukidev | Udemy" width="22px" src="https://img2.gratispng.com/20180708/acg/kisspng-udemy-coupon-logo-discounts-and-allowances-sales-formula-one-logo-5b419af203e528.396413641531026162016.jpg" />][udemy]
 [<img align="left" alt="Kaisukidev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kaisukidev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaisukidev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -48,6 +48,5 @@
 [website]: https://www.udemy.com/user/gabriel-albuquerque-5/
 [udemy]: https://www.udemy.com/user/gabriel-albuquerque-5/
 [twitter]: https://twitter.com/kaisukidev
-[youtube]: https://youtube.com/kaisukidev
 [instagram]: https://instagram.com/kaisukidev
 [linkedin]: https://linkedin.com/in/kaisuki
