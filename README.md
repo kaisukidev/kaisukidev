@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel - aka [Kaisuki][website] 👋
 
 ## I'm a Husband, Father, Developer and Teacher!
-- 🔭 I’m currently working on a [Udemy Courses][website]!
+- 🔭 I’m currently working on [Udemy Courses][website]!
 - 🌱 I’m currently learning Node.js
 - 👯 I'm looking to improve my knowledge every day and help people teaching what I know
 - 🥅 2020 Goals: Contribute more to Open Source projects
