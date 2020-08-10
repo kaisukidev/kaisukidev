@@ -42,6 +42,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Manipulação de erros com Javascript e Promises](https://medium.com/@kaisukidev/manipula%C3%A7%C3%A3o-de-erros-com-javascript-e-promises-dec16387e1ba?source=rss-a5659fe367f2------2)
 - [Entendendo o Document.readyState](https://medium.com/@kaisukidev/entendendo-o-document-readystate-c47207382cae?source=rss-a5659fe367f2------2)
 <!-- BLOG-POST-LIST:END -->
 
