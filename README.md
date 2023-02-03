@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer and Teacher!
 - 🔭 I’m currently working on [Udemy Courses][website]!
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Next.js
 - 👯 I'm looking to improve my knowledge every day and help people teaching what I know
 - 🥅 2023 Goals: Back to working as a developer and creating applications that help people
 - ⚡ Fun fact: I'm a Dungeon Master in D&D 5th Edition
