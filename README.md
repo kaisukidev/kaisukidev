@@ -42,9 +42,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [O poder do home office na era digital: como a flexibilidade no trabalho impulsiona a produtividade…](https://medium.com/@kaisukidev/o-poder-do-home-office-na-era-digital-como-a-flexibilidade-no-trabalho-impulsiona-a-produtividade-9a775bb900ae?source=rss-a5659fe367f2------2)
+- [O poder da liderança: inspirando mudanças e deixando um legado](https://medium.com/@kaisukidev/o-poder-da-lideran%C3%A7a-inspirando-mudan%C3%A7as-e-deixando-um-legado-aeec682399ac?source=rss-a5659fe367f2------2)
+- [5 conselhos essenciais para se tornar um líder de sucesso em projetos de e-commerce](https://medium.com/@kaisukidev/5-conselhos-essenciais-para-se-tornar-um-l%C3%ADder-de-sucesso-em-projetos-de-e-commerce-e6cb8788f691?source=rss-a5659fe367f2------2)
 - [3 boas práticas essenciais para um bom commit](https://medium.com/@kaisukidev/3-boas-pr%C3%A1ticas-essenciais-para-um-bom-commit-12c3e0518933?source=rss-a5659fe367f2------2)
 - [Manipulação de erros com Javascript e Promises](https://medium.com/@kaisukidev/manipula%C3%A7%C3%A3o-de-erros-com-javascript-e-promises-dec16387e1ba?source=rss-a5659fe367f2------2)
-- [Entendendo o Document.readyState](https://medium.com/@kaisukidev/entendendo-o-document-readystate-c47207382cae?source=rss-a5659fe367f2------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.udemy.com/user/gabriel-albuquerque-5/
