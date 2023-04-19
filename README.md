@@ -42,11 +42,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Liderança remota: adaptando-se às novas demandas do trabalho à distância](https://medium.com/@kaisukidev/lideran%C3%A7a-remota-adaptando-se-%C3%A0s-novas-demandas-do-trabalho-%C3%A0-dist%C3%A2ncia-b2b2f1dd0ba5?source=rss-a5659fe367f2------2)
 - [Você é substituível, mas o que você faz é único: a importância de reconhecer o valor de cada…](https://medium.com/@kaisukidev/voc%C3%AA-%C3%A9-substitu%C3%ADvel-mas-o-que-voc%C3%AA-faz-%C3%A9-%C3%BAnico-a-import%C3%A2ncia-de-reconhecer-o-valor-de-cada-4dfb1a76de3d?source=rss-a5659fe367f2------2)
 - [O poder do home office na era digital: como a flexibilidade no trabalho impulsiona a produtividade…](https://medium.com/@kaisukidev/o-poder-do-home-office-na-era-digital-como-a-flexibilidade-no-trabalho-impulsiona-a-produtividade-9a775bb900ae?source=rss-a5659fe367f2------2)
 - [O poder da liderança: inspirando mudanças e deixando um legado](https://medium.com/@kaisukidev/o-poder-da-lideran%C3%A7a-inspirando-mudan%C3%A7as-e-deixando-um-legado-aeec682399ac?source=rss-a5659fe367f2------2)
 - [5 conselhos essenciais para se tornar um líder de sucesso em projetos de e-commerce](https://medium.com/@kaisukidev/5-conselhos-essenciais-para-se-tornar-um-l%C3%ADder-de-sucesso-em-projetos-de-e-commerce-e6cb8788f691?source=rss-a5659fe367f2------2)
-- [3 boas práticas essenciais para um bom commit](https://medium.com/@kaisukidev/3-boas-pr%C3%A1ticas-essenciais-para-um-bom-commit-12c3e0518933?source=rss-a5659fe367f2------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.udemy.com/user/gabriel-albuquerque-5/
