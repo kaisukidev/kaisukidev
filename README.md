@@ -42,11 +42,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Como criar equipes de alta performance na tecnologia: dicas essenciais para engajar e produtividade](https://medium.com/@kaisukidev/como-criar-equipes-de-alta-performance-na-tecnologia-dicas-essenciais-para-engajar-e-produtividade-3170e911f0ec?source=rss-a5659fe367f2------2)
 - [Liderança de equipes: a importância de se preocupar com o LGPD](https://medium.com/@kaisukidev/lideran%C3%A7a-de-equipes-a-import%C3%A2ncia-de-se-preocupar-com-o-lgpd-cb27ebbf0fd0?source=rss-a5659fe367f2------2)
 - [Liderança remota: adaptando-se às novas demandas do trabalho à distância](https://medium.com/@kaisukidev/lideran%C3%A7a-remota-adaptando-se-%C3%A0s-novas-demandas-do-trabalho-%C3%A0-dist%C3%A2ncia-b2b2f1dd0ba5?source=rss-a5659fe367f2------2)
 - [Você é substituível, mas o que você faz é único: a importância de reconhecer o valor de cada…](https://medium.com/@kaisukidev/voc%C3%AA-%C3%A9-substitu%C3%ADvel-mas-o-que-voc%C3%AA-faz-%C3%A9-%C3%BAnico-a-import%C3%A2ncia-de-reconhecer-o-valor-de-cada-4dfb1a76de3d?source=rss-a5659fe367f2------2)
 - [O poder do home office na era digital: como a flexibilidade no trabalho impulsiona a produtividade…](https://medium.com/@kaisukidev/o-poder-do-home-office-na-era-digital-como-a-flexibilidade-no-trabalho-impulsiona-a-produtividade-9a775bb900ae?source=rss-a5659fe367f2------2)
-- [O poder da liderança: inspirando mudanças e deixando um legado](https://medium.com/@kaisukidev/o-poder-da-lideran%C3%A7a-inspirando-mudan%C3%A7as-e-deixando-um-legado-aeec682399ac?source=rss-a5659fe367f2------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.udemy.com/user/gabriel-albuquerque-5/
