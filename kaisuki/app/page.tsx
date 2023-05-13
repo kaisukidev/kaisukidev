@@ -22,12 +22,9 @@ const GlobalStyle = createGlobalStyle`
 `;
 
 export default function Home() {
-  const [profileType, setProfileType] = useState("");
+  const [profileType, setProfileType] = useState('');
 
   function renderProfile() {
-    // Scrolls to profile wrapper
-    // todo: Preciso corrigir esse trecho, pois não é a melhor prática (error ReferenceError: document is not defined)
-    document.getElementById('contentProfile')?.scrollIntoView({ behavior: 'smooth' });
 
     // Shows profile
     switch (profileType) {
@@ -38,6 +35,19 @@ export default function Home() {
       default:
         return null;
     }
+  }
+
+  function handleButtonClick(profileType: string) {
+    // Scrolls to profile wrapper
+    if (typeof window !== 'undefined') {
+      const element = document.getElementById('contentProfile');
+      if (element) {
+        element.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+  
+    // Shows profile
+    setProfileType(profileType);
   }
 
   return (
@@ -55,8 +65,8 @@ export default function Home() {
         <div className="relative flex place-items-center">
           <p className="fixed w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
             Would you like to know more about my career as a:&nbsp;
-            <button className="contents font-bold" onClick={() => setProfileType(() => "leader")}>Leader</button> or&nbsp;
-            <button className="contents font-bold" onClick={() => setProfileType(() => "developer")}>Developer</button>?
+            <button className="contents font-bold" onClick={() => handleButtonClick("leader")}>Leader</button> or&nbsp;
+            <button className="contents font-bold" onClick={() => handleButtonClick("developer")}>Developer</button>?
           </p>
         </div>
       </Wrapper>
