@@ -26,8 +26,11 @@ export default function Home() {
         sessionStorage.setItem('profile', 'developer');
         return <DeveloperProfile />;
       default:
-        let profile : string | null = sessionStorage.getItem('profile');
-        return profile == 'leader' ? <LeaderProfile /> : <DeveloperProfile />;
+        let profile: string | null = null;
+        if (typeof window !== 'undefined') {
+          profile = sessionStorage.getItem('profile');
+        }
+        return profile === 'leader' ? <LeaderProfile /> : <DeveloperProfile />;
     }
   }
 
