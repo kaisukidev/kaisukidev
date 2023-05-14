@@ -8,7 +8,7 @@ import { Objectives } from './objectives';
 import { Scopes } from './scopes';
 
 export function LeaderProfile() {
-  const [profileInfo, setProfileInfo] = useState('');
+  const [profileInfo, setProfileInfo] = useState('aboutMe');
 
   function renderProfileInfo() {
     // Shows profile info
