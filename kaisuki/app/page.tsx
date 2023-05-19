@@ -71,7 +71,7 @@ export default function Home() {
           <li className='border-double border-4 border-sky-500 mx-2 px-2 text-sm backdrop-blur-2xl'><a href='mailto:kaisukidev@gmail.com' target='_blank'>E-mail</a></li>
         </Socials>
         <div className='relative flex place-items-center justify-center'>
-          <div className='relative lg:static justify-center order-b border-gray-300 bg-gradient-to-b from-zinc-200 p-3 lg:w-full w-4/5 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit rounded-xl border bg-gray-200'>
+          <div className='relative lg:static justify-center order-b bg-gradient-to-b p-3 lg:w-full w-4/5 backdrop-blur-2xl border-neutral-800 bg-zinc-800/30 from-inherit rounded-xl border'>
             Would you like to know more about my career as a:&nbsp;
             <button className='contents font-bold' onClick={() => handleButtonClick('leader')}>Leader</button> or&nbsp;
             <button className='contents font-bold' onClick={() => handleButtonClick('developer')}>Developer</button>?
