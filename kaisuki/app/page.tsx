@@ -115,6 +115,10 @@ const Wrapper = styled.section`
   .profile-info{
     flex-basis: 20%;
     text-align: center;
+
+    img{
+      margin: auto;
+    }
   }
 
   .profile-history{
