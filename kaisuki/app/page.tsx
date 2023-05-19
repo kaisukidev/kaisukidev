@@ -4,7 +4,6 @@ import { useState } from 'react'
 import { LeaderProfile } from './components/leaderProfile/leaderProfile'
 import { DeveloperProfile } from './components/developerProfile/developerProfile'
 import { createGlobalStyle, styled } from 'styled-components'
-import starterImage from './images/start-background.jpg'
 
 const GlobalStyle = createGlobalStyle`
   body {
@@ -53,7 +52,7 @@ export default function Home() {
   }
 
   return (
-    <main className='flex min-h-screen flex-col items-center'>
+    <main className='flex min-h-screen flex-col items-center relative'>
       <GlobalStyle />
       <Navigator className={`bg-gray-900 p-4 fixed top-0 left-0 h-auto text-sm ${profileType ? '' : 'hidden'}`}>
         <ul>
@@ -71,15 +70,20 @@ export default function Home() {
           <li className='border-double border-4 border-sky-500 mx-2 px-2 text-sm backdrop-blur-2xl'><a href='https://medium.com/@kaisukidev' target='_blank'>Medium</a></li>
           <li className='border-double border-4 border-sky-500 mx-2 px-2 text-sm backdrop-blur-2xl'><a href='mailto:kaisukidev@gmail.com' target='_blank'>E-mail</a></li>
         </Socials>
-        <div className='relative flex place-items-center'>
-          <p className='fixed w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30'>
+        <div className='relative flex place-items-center justify-center'>
+          <div className='relative lg:static justify-center order-b border-gray-300 bg-gradient-to-b from-zinc-200 p-3 lg:w-full w-4/5 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit rounded-xl border bg-gray-200'>
             Would you like to know more about my career as a:&nbsp;
             <button className='contents font-bold' onClick={() => handleButtonClick('leader')}>Leader</button> or&nbsp;
             <button className='contents font-bold' onClick={() => handleButtonClick('developer')}>Developer</button>?
-          </p>
+          </div>
         </div>
       </Wrapper>
-      <Wrapper className='h-screen container lg flex justify-center flex-col items-center p-4' id='contentProfile'>{renderProfile()}</Wrapper>
+      <Wrapper className='h-screen container lg flex justify-center flex-col items-center lg:p-4' id='contentProfile'>
+        {renderProfile()}
+        <Footer className='mt-2 p-2 text-sm text-gray-300'>
+          <p>The information provided on this portfolio is of a personal nature and may not be accurate or up to date - Kaisuki © 2023</p>
+        </Footer>
+      </Wrapper>
     </main>
   );
 }
@@ -87,7 +91,7 @@ export default function Home() {
 /* Styled Components */
 const Wrapper = styled.section`
   &.first-content{
-    background: url(${starterImage.src}) center center;
+    background: url('/img/start-background.jpg') center center;
     background-size: cover;
   }
 
@@ -117,15 +121,17 @@ const Wrapper = styled.section`
     flex-basis: 80%;
   }
 
-  h2{
-    margin: 10px 0 0;
-  }
-
   p{
     margin: 10px 0;
 
     &:first-child{
       margin-top: 0;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .profile-info, .profile-history{
+      flex-basis: 100%;
     }
   }
 `;
@@ -144,6 +150,6 @@ const Skills = styled.small`/* Some animations in future */`;
 
 const Socials = styled.ul`/* Some animations in future */`;
 
-const Navigator = styled.section`
+const Navigator = styled.section``
 
-`
+const Footer = styled.footer``
