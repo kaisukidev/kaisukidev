@@ -52,7 +52,7 @@ export default function Home() {
   }
 
   return (
-    <main className='flex min-h-screen flex-col items-center relative'>
+    <main className='flex min-h-screen flex-col items-center relative text-white'>
       <GlobalStyle />
       <Navigator className={`bg-gray-900 p-4 fixed top-0 left-0 h-auto text-sm ${profileType ? '' : 'hidden'}`}>
         <ul>
